@@ -1,0 +1,11 @@
+﻿Кузнецов С. Д. Основы баз данных. — 2-е изд. — М.: Интернет-университет информационных технологий; БИНОМ. Лаборатория знаний, 2007. — 484 с. — ISBN 978-5-94774-736-2.
+Кириллов, В. В. Введение в реляционные базы данных / В. В. Кириллов, Г. Ю. Громов. — СПб.: БХВ-Петербург, 2009. — 464 с.: ил. + CD-ROM — (Учебная литература для вузов). — ISBN 978-5-94157-770-5.
+Фаулер М. NoSQL: новая методология разработки нереляционных баз данных / М. Фаулер, П. Садаладж : Пер. с англ. - М.: ООО "И.Д. Вильяме", 2013. - 192 с.: ил. - Парал. тит. Англ.
+Редмонд Э. Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL / Э. Редмонд, Д. Р. Уилсон. - Под редакцией Жаклин Картер / Пер. с англ. Слинкин А. А. – М.: ДМК Пресс, 2013. – 384с.: ил.
+Elmasri R., Navathe S. Fundamentals of Database Systems, 7th Edition  Hoboken (NJ), Pearson, 2015. 1242 p.
+Robinson I., Webber J., Eifrem E. Graph Databases. New York, Apress Media, 2015. 220 p.
+Hoffer J., Prescott M., McFadden F. Modern Database Management, 12th edition. Harlow (Essex), Pearson Education Limited, 2016. 597 p.
+Harrison G. Next Generation Databases NoSQL, NewSQL, and Big Data. New York, Apress Media, 2015. 235 p.
+Sasirekha K., Baby P. Agglomerative Hierarchical Clustering Algorithm - A
+Review. International Journal of Scientific and Research Publications, Volume 3, Issue 3, Gurgaon, 2013, pp. 83-85.
+ 
